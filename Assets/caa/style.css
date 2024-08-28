@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+
+.menu{
+    height: 200px;
+    background-color:blueviolet;
+}
+
+.img-perfil{
+    background-color: blueviolet;
+    width: 180px;
+    height:180px;
+    border-radius: 100px;
+    border: 2px solid black;
+    background-image: url(../img/download.png);
+    background-repeat: no-repeat;
+    background-position: 70% 50%;
+    background-size: 170px;
+    float: inline-start;
+}
+
+.banner-texto{
+    text-align: center;
+    align-content: center;
+    height: 200px;
+    
+}
+.banner-inferior{
+    height: 50px;
+    background-color: aqua;
+    text-align: center;
+    
+    
+
+}
+.conteudo{
+    height: 150px;
+    background-color: green;
+    text-align:center;
+    align-content: center;
+    height: 150px;
+}
